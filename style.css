@@ -109,6 +109,11 @@ section {
     box-shadow: 0px 4px 10px 1px #00000033;
 }
 
+.button:hover {
+    background-color: rgba(192, 223, 52, 0.692);
+    box-shadow: 0px 10px 10px 1px #00000033;
+}
+
 .item-3 {
     background-color: rgb(74, 190, 189);
     width: 100%;
